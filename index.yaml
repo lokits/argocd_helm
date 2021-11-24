@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  springboot:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-08-25T11:35:32.88917+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 0a2be97d4f89b2a97d66d80416cf589d21bc2ed8df6c1da5f8449fefd5c64241
+    name: springboot
+    type: application
+    urls:
+    - https://arvindrg.github.io/argocd/springboot-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-08-25T11:35:32.88821+05:30"
