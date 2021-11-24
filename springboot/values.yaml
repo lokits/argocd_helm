@@ -5,10 +5,10 @@
 replicaCount: 1
 
 image:
-  repository: gajjala7012/spring-boot-mongo
+  repository: lokits/spring-boot
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: 94
+  tag: 7
 
 imagePullSecrets: []
 nameOverride: ""
