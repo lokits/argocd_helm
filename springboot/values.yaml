@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   repository: lokits/spring-boot
-  pullPolicy: IfNotPresent
+  pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
   tag: 11
 
